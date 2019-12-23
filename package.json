@@ -1,0 +1,26 @@
+{
+  "name": "user-api-crud-nodejs",
+  "version": "1.0.0",
+  "description": "API CRUD for User data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saman-waruka/user-api-crud-nodejs.git"
+  },
+  "keywords": [
+    "api",
+    "crud"
+  ],
+  "author": "samwaW",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saman-waruka/user-api-crud-nodejs/issues"
+  },
+  "homepage": "https://github.com/saman-waruka/user-api-crud-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
